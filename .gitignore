@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VirtualCard
+/VirtualCard.Business/bin/Debug/netcoreapp2.1
+/VirtualCard.Business/obj
+/VirtualCard.Cli/bin/Debug/netcoreapp2.1
+/VirtualCard.Cli/obj
+/VirtualCard.Model/bin/Debug/netcoreapp2.1
+/VirtualCard.Model/obj
+/VirtualCard.Test/bin/Debug/netcoreapp2.1
+/VirtualCard.Test/obj
